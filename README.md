@@ -1,2 +1,4 @@
-###### AMZGstudio.github.io
+theme: minima
+
+#AMZGstudio.github.io
 My website (TEST)
